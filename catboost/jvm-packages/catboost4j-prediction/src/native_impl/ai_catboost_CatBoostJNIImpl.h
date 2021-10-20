@@ -31,7 +31,8 @@ JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostHashCatFeatur
  * Signature: (Ljava/lang/String;[J)Ljava/lang/String;
  */
 JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostLoadModelFromFile
-  (JNIEnv *, jclass, jstring, jlongArray);
+  // (JNIEnv *, jclass, jstring, jlongArray);
+  (JNIEnv *, jclass, jstring, jlongArray, jstring);
 
 /*
  * Class:     ai_catboost_CatBoostJNIImpl
@@ -40,6 +41,7 @@ JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostLoadModelFrom
  */
 JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostLoadModelFromArray
   (JNIEnv *, jclass, jbyteArray, jlongArray);
+  (JNIEnv *, jclass, jbyteArray, jlongArray, jstring);
 
 /*
  * Class:     ai_catboost_CatBoostJNIImpl
