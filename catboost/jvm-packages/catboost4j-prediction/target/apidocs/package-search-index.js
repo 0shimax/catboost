@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ai.catboost","h":"","u":""},{"l":"すべてのパッケージ","h":"","u":"allpackages-index.html"}]

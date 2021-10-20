@@ -1,0 +1,10 @@
+ai/catboost/CatBoostModel$FloatFeature$NanValueTreatment.class
+ai/catboost/CatBoostModel$FloatFeature.class
+ai/catboost/CatBoostModel$Feature.class
+ai/catboost/CatBoostJNIImpl.class
+ai/catboost/CatBoostModel.class
+ai/catboost/CatBoostPredictions.class
+ai/catboost/CatBoostModel$CatFeature.class
+ai/catboost/CatBoostModel$TextFeature.class
+ai/catboost/CatBoostJNI.class
+ai/catboost/CatBoostModel$1.class

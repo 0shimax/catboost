@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="58" failures="0" name="ai.catboost.CatBoostModelTest" time="0.614" errors="2" skipped="0">
+<testsuite tests="56" failures="0" name="ai.catboost.CatBoostModelTest" time="0.871" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.10+9"/>
@@ -60,128 +60,50 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleHashesOnly" time="0.548"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleHashesOnly" time="0.817"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientPredictionSize" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInNumericHashes" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInNumericHashes" time="0.002"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInNumericHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleCategoricOnlyWithNullInNumeric" time="0.002"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleCategoricOnlyWithNullInNumeric" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfCategoricFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleCategoricOnlyInsufficientNumberOfFeatures" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericFeaturesHashes" time="0.002"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testEmptyFeaturesArray" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericFeaturesHashes" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testEmptyFeaturesArray" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictWithInsufficientPredictionSize" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientNumericFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleHashesOnlywihtInsufficientCategoricFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInCategoric" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testModelAttributes" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfCategoricFeaturesHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleCategoricOnlywihtInsufficientCategoricFeatures" time="0.002"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleCategoricOnlywihtInsufficientCategoricFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleCategoricOnly" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfCategoricRowsHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleHashesOnlyNullInCategoric" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testHashCategoricalFeatures" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleHashesOnlyNullInCategoric" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testHashCategoricalFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientNumericFeaturesHashes" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingle" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingleNumericOnly" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfCategoricRows" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleNumericOnlyWithNullInNumeric" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleNumericOnlyWithNullInNumeric" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientCategoricFeatures" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromFile" time="0.003"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInNumeric" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromFile" time="0.002"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInNumeric" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingleHashesOnly" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingleHashes" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInCategoricHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictNumericOnlyWithInsufficientPredictionSize" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInCategoric" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictNumericOnlyWithInsufficientPredictionSize" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInCategoric" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleHashes" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailLoadModelFromFile" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericRows" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientCategoricFeaturesHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleCategoricOnlyNullInCategoric" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleCategoricOnlyNullInCategoric" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNumericOnlyInsufficientNumberOfFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleNumericOnly" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInCategoricHashes" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInCategoricHashes" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testHashCategoricalFeature" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleHashesOnlyInsufficientNumberOfFeatures" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromJsonStream" time="0.005">
-    <error type="java.lang.NullPointerException">java.lang.NullPointerException
-	at ai.catboost.CatBoostModel.loadModel(CatBoostModel.java:256)
-	at ai.catboost.CatBoostModelTest.testSuccessfulLoadModelFromJsonStream(CatBoostModelTest.java:149)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
-	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
-	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
-	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
-	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
-	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
-	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
-	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
-	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
-	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
-	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
-	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
-	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
-	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
-</error>
-  </testcase>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericRowsHashes" time="0"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromFileJsonFormat" time="0.001">
-    <error type="java.lang.NullPointerException">java.lang.NullPointerException
-	at ai.catboost.CatBoostModelTest.copyStream(CatBoostModelTest.java:121)
-	at ai.catboost.CatBoostModelTest.testSuccessfulLoadModelFromFileJsonFormat(CatBoostModelTest.java:159)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
-	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
-	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
-	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
-	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
-	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
-	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
-	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
-	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
-	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
-	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
-	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
-	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
-	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
-</error>
-  </testcase>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleHashesOnlyInsufficientNumberOfFeatures" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericRowsHashes" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingleCategoricOnly" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInNumeric" time="0.001"/>
@@ -192,6 +114,6 @@
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictWithInsufficientPredictionSizeHashes" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleHashesOnlyWithNullInNumeric" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromStream" time="0"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultiple" time="0"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleNumericOnlywithInsufficientNumericFeatures" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultiple" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleNumericOnlywithInsufficientNumericFeatures" time="0"/>
 </testsuite>
