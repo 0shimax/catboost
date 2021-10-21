@@ -1,0 +1,386 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:3:1: パッケージjavax.annotationは存在しません[0m
+[0m[[0m[31merror[0m] [0m[0mjavax.annotation.Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:4:1: パッケージjavax.validation.constraintsは存在しません[0m
+[0m[[0m[31merror[0m] [0m[0mjavax.validation.constraints.NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:9:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:15:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:22:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:29:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:33:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:39:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:45:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:51:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:57:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:64:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:74:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:82:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:90:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:96:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:102:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:110:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:118:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:126:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:134:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:3:1: パッケージjavax.annotationは存在しません[0m
+[0m[[0m[31merror[0m] [0m[0mjavax.annotation.Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:4:1: パッケージjavax.validation.constraintsは存在しません[0m
+[0m[[0m[31merror[0m] [0m[0mjavax.validation.constraints.NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:7:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:3:1: パッケージjavax.annotationは存在しません[0m
+[0m[[0m[31merror[0m] [0m[0mjavax.annotation.Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:4:1: パッケージjavax.validation.constraintsは存在しません[0m
+[0m[[0m[31merror[0m] [0m[0mjavax.validation.constraints.NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:17:1: パッケージai.catboost.commonは存在しません[0m
+[0m[[0m[31merror[0m] [0m[0mai.catboost.common.NativeLib[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:111:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:205:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:218:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:234:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:248:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:270:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:288:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:300:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostPredictions.java:3:1: パッケージjavax.validation.constraintsは存在しません[0m
+[0m[[0m[31merror[0m] [0m[0mjavax.validation.constraints.NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:364:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:384:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:402:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:422:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:439:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:459:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:483:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:503:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:524:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java:532:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス CatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostModel[0m
+[0m[[0m[31merror[0m] [0m[0mCatBoostError[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:8:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:9:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:14:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:15:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:20:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:21:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:22:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:27:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:28:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:29:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:39:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:45:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:51:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:57:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:63:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:64:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:70:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:71:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:72:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:73:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:74:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:80:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:81:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:82:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:88:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:89:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:90:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:96:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:102:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:108:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:109:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:110:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:116:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:117:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:118:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:124:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:125:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:126:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:132:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:133:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNI.java:134:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNI[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:7:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:15:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:16:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:13:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:20:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:21:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:18:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:25:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:26:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:27:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:23:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス Nullable[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNullable[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:31:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostJNIImpl.java:32:1: シンボルを見つけられません[0m
+[0m[[0m[31merror[0m] [0m[0m  シンボル:   クラス NotNull[0m
+[0m[[0m[31merror[0m] [0m[0m  場所: クラス ai.catboost.CatBoostJNIImpl[0m
+[0m[[0m[31merror[0m] [0m[0mNotNull[0m
+[0m[[0m[0minfo[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java: CatBoostModel.javaは推奨されないAPIを使用またはオーバーライドしています。[0m
+[0m[[0m[0minfo[0m] [0m[0m/Users/n-shimada/projects/catboost/catboost/jvm-packages/catboost4j-prediction/src/main/java/ai/catboost/CatBoostModel.java: 詳細は、-Xlint:deprecationオプションを指定して再コンパイルしてください。[0m

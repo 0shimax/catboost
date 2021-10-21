@@ -218,7 +218,6 @@ public class CatBoostModel implements AutoCloseable {
     public static CatBoostModel loadModel(final @NotNull String modelPath, @NotNull String modelFormat) throws CatBoostError {        
         final long[] handles = new long[1];
 
-        // implLibrary.catBoostLoadModelFromFile(modelPath, handles);
         implLibrary.catBoostLoadModelFromFile(modelPath, handles, modelFormat);
         return new CatBoostModel(handles[0]);
     }
@@ -257,7 +256,6 @@ public class CatBoostModel implements AutoCloseable {
             out.write(copyBuffer, 0, bytesRead);
         }
 
-        // implLibrary.catBoostLoadModelFromArray(out.toByteArray(), handles);
         implLibrary.catBoostLoadModelFromArray(out.toByteArray(), handles, modelFormat);
         return new CatBoostModel(handles[0]);
     }

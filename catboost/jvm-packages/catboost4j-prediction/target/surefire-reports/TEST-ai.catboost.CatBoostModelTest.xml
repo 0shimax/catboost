@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="56" failures="0" name="ai.catboost.CatBoostModelTest" time="0.871" errors="0" skipped="0">
+<testsuite tests="58" failures="0" name="ai.catboost.CatBoostModelTest" time="0.735" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.10+9"/>
@@ -60,60 +60,62 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleHashesOnly" time="0.817"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientPredictionSize" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleHashesOnly" time="0.61"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientPredictionSize" time="0.002"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInNumericHashes" time="0.002"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInNumericHashes" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleCategoricOnlyWithNullInNumeric" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfCategoricFeatures" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfCategoricFeatures" time="0.002"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleCategoricOnlyInsufficientNumberOfFeatures" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericFeaturesHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testEmptyFeaturesArray" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericFeaturesHashes" time="0.002"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testEmptyFeaturesArray" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictWithInsufficientPredictionSize" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientNumericFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleHashesOnlywihtInsufficientCategoricFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInCategoric" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testModelAttributes" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfCategoricFeaturesHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleCategoricOnlywihtInsufficientCategoricFeatures" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleCategoricOnlywihtInsufficientCategoricFeatures" time="0.002"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleCategoricOnly" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfCategoricRowsHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleHashesOnlyNullInCategoric" time="0"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testHashCategoricalFeatures" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientNumericFeaturesHashes" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleHashesOnlyNullInCategoric" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testHashCategoricalFeatures" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientNumericFeaturesHashes" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingle" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingleNumericOnly" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfCategoricRows" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleNumericOnlyWithNullInNumeric" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleNumericOnlyWithNullInNumeric" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientCategoricFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromFile" time="0.002"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInNumeric" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInNumeric" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingleHashesOnly" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingleHashes" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInCategoricHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictNumericOnlyWithInsufficientPredictionSize" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictNumericOnlyWithInsufficientPredictionSize" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNullInCategoric" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailLoadModelFromFile" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleHashes" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailLoadModelFromFile" time="0.002"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericRows" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientCategoricFeaturesHashes" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleCategoricOnlyNullInCategoric" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSinglewihtInsufficientCategoricFeaturesHashes" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleCategoricOnlyNullInCategoric" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNumericOnlyInsufficientNumberOfFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultipleNumericOnly" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInCategoricHashes" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testHashCategoricalFeature" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleHashesOnlyInsufficientNumberOfFeatures" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromJsonStream" time="0.035"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericRowsHashes" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromFileJsonFormat" time="0.031"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleInsufficientNumberOfNumericFeatures" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingleCategoricOnly" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictSingleCategoricOnly" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleWithNullInNumeric" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testModelMetaAttributes" time="0.011"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testModelMetaAttributes" time="0.008"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleCategoricOnlyWithNullCategoricalFeatures" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailLoadModelFromStream" time="0.001"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictMultipleNumericOnlyNullInNumeric" time="0"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictWithInsufficientPredictionSizeHashes" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictWithInsufficientPredictionSizeHashes" time="0"/>
   <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleHashesOnlyWithNullInNumeric" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromStream" time="0"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultiple" time="0.001"/>
-  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleNumericOnlywithInsufficientNumericFeatures" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulLoadModelFromStream" time="0.001"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testSuccessfulPredictMultiple" time="0"/>
+  <testcase classname="ai.catboost.CatBoostModelTest" name="testFailPredictSingleNumericOnlywithInsufficientNumericFeatures" time="0.001"/>
 </testsuite>

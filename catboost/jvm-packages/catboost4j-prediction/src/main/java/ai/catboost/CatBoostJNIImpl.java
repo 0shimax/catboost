@@ -23,14 +23,12 @@ class CatBoostJNIImpl {
     @Nullable
     final static native String catBoostLoadModelFromFile(
             @NotNull String fname,
-        //     @NotNull long[] handle);
             @NotNull long[] handle,
             @Nullable String formatName);
 
     @Nullable
     final static native String catBoostLoadModelFromArray(
             @NotNull byte[] data,
-        //     @NotNull long[] handle);
             @NotNull long[] handle,
             @Nullable String formatName);
 

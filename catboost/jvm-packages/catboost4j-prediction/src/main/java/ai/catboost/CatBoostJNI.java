@@ -17,9 +17,6 @@ class CatBoostJNI {
     }
 
     final void catBoostLoadModelFromFile(
-        //     final @NotNull String fname,
-            // final @NotNull long[] handle) throws CatBoostError {
-        // CatBoostJNIImpl.checkCall(CatBoostJNIImpl.catBoostLoadModelFromFile(fname, handle));
             final @NotNull String fname,
             final @NotNull long[] handle,
             final @Nullable String formatName) throws CatBoostError {
@@ -27,9 +24,6 @@ class CatBoostJNI {
     }
 
     final void catBoostLoadModelFromArray(
-        //     final @NotNull byte[] data,
-        //     final @NotNull long[] handle) throws CatBoostError {
-        // CatBoostJNIImpl.checkCall(CatBoostJNIImpl.catBoostLoadModelFromArray(data, handle));
             final @NotNull byte[] data,
             final @NotNull long[] handle,
             final @Nullable String formatName) throws CatBoostError {

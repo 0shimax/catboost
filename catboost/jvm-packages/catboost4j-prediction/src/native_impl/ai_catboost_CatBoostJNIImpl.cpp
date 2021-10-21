@@ -203,7 +203,6 @@ JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostFreeModel
 }
 
 JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostLoadModelFromFile
-//   (JNIEnv* jenv, jclass, jstring jmodelPath, jlongArray jhandles) {
   (JNIEnv* jenv, jclass, jstring jmodelPath, jlongArray jhandles, jstring jmodelFormat) {
     Y_BEGIN_JNI_API_CALL();
 
@@ -228,7 +227,6 @@ JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostLoadModelFrom
 
     // TODO(yazevnul): `ReadModel` should return `THolder<TFullModel>` instead of `TFullModel`
     auto model = MakeHolder<TFullModel>();
-    *model = ReadModel(TString(modelPath, modelPathSize));
     *model = ReadModel(TString(modelPath, modelPathSize), modelType);
 
     const auto handle = ToHandle(model.Get());
@@ -241,7 +239,6 @@ JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostLoadModelFrom
 }
 
 JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostLoadModelFromArray
-//   (JNIEnv* jenv, jclass, jbyteArray jdata, jlongArray jhandles) {
   (JNIEnv* jenv, jclass, jbyteArray jdata, jlongArray jhandles, jstring jmodelFormat) {
     Y_BEGIN_JNI_API_CALL();
 
@@ -264,7 +261,6 @@ JNIEXPORT jstring JNICALL Java_ai_catboost_CatBoostJNIImpl_catBoostLoadModelFrom
     }
 
     auto model = MakeHolder<TFullModel>();
-    // *model = ReadModel(data, dataSize);
     *model = ReadModel(data, dataSize, modelType);
 
     const auto handle = ToHandle(model.Get());
